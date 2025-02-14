@@ -1,6 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/somadekadane/DBbikeshop)
 
-## DBbikeshop
+## Bikeshop
 Objetivos do Sistema de Banco de Dados:
 Gerenciar o estoque de bicicletas e acessórios, incluindo detalhes como modelo, marca, 
 quantidade em estoque, preço de venda e fornecedor.
