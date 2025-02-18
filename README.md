@@ -9,3 +9,4 @@ número de telefone, endereço de e-mail e histórico de compras.
 Registrar e acompanhar as vendas de bicicletas e acessórios, incluindo detalhes como data da 
 venda, produtos vendidos, preço de venda, método de pagamento e vendedor responsável.
 
+<img src="dbbikeshop.png"/>
